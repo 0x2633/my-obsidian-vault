@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPen",
+      "LiExcalidrawIcon",
+      "FasArrowUp",
       "LiBadgeDollarSign",
-      "💲",
-      "💰",
-      "LiCircuitBoard",
-      "LiPen"
+      "💲"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,25 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "個人日誌": "LiBook",
-  "工作日誌": "LiLogs",
-  "我獨自升級": "⬆",
-  "Excalidraw": "LiPen",
-  "系統設計": "LiCircuitBoard",
-  "量化交易": "LiBadgeDollarSign"
+  "個人日誌": {
+    "iconName": "LiBook",
+    "iconColor": "#af1212"
+  },
+  "工作日誌": {
+    "iconName": "LiLogs",
+    "iconColor": "#40dda1"
+  },
+  "我獨自升級": {
+    "iconName": "FasArrowUp",
+    "iconColor": "#9414c2"
+  },
+  "Excalidraw": {
+    "iconName": "FasPen",
+    "iconColor": "#2f23d1"
+  },
+  "量化交易": {
+    "iconName": "LiBadgeDollarSign",
+    "iconColor": "#efc44d"
+  },
+  "我獨自升級/系統架構與設計": "LiCircuitBoard"
 }
