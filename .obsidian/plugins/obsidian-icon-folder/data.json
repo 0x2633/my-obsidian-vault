@@ -34,10 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "個人日誌": {
-    "iconName": "LiBook",
-    "iconColor": "#af1212"
-  },
   "工作日誌": {
     "iconName": "LiLogs",
     "iconColor": "#40dda1"

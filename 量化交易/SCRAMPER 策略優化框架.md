@@ -1,9 +1,10 @@
+---
+tags:
+  - stock-trading
+---
+## SCRAMPER 策略優化框架
 
 是一套由艾伯列（Bob Eberle）提出的==創意啟發檢查表==。
-
----
-
-## SCRAMPER 策略優化框架
 
 將 SCRAMPER 拆解並應用於交易策略開發：
 

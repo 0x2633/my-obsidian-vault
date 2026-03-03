@@ -1,3 +1,7 @@
+---
+tags:
+  - stock-trading
+---
 **布林通道 (Bollinger Bands, BB)** 是一種結合了**統計學**與**[[移動平均線 (Moving Average)]]**的技術分析指標，幫助**定義趨勢**和衡量**波動性**，由約翰·布林格 (John Bollinger) 在 1980 年代開發。
 
 它主要用於衡量市場價格的**相對高低**以及**波動性 (Volatility)**，使用 MA 的[[標準差 (Standard Deviation)]]來計算。

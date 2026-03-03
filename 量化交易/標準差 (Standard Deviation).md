@@ -1,3 +1,7 @@
+---
+tags:
+  - stock-trading
+---
 在金融技術分析與數據科學中，**標準差（Standard Deviation, $\sigma$）** 是衡量數值**離散程度**（即==波動性==）的核心指標。
 
 簡單來說：
