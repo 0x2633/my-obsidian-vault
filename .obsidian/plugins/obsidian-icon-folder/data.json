@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiRobotframework",
-      "LiStar",
-      "TiWriting",
-      "OcProject24",
-      "LiBookUp"
+      "LiTemplaterIcon",
+      "TiTemplate",
+      "FiCalendar",
+      "FasBookJournalWhills",
+      "OcOrganization24"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,11 +67,25 @@
     "iconColor": "#065700"
   },
   "我獨自升級/學習的方法": "LiBookUp",
-  "專案": "OcProject24",
-  "個人日記": "TiWriting",
+  "專案": {
+    "iconName": "OcProject24",
+    "iconColor": "#1eeb0f"
+  },
+  "個人日記": {
+    "iconName": "TiWriting",
+    "iconColor": "#daa30b"
+  },
   "專案/我與我的小星星": {
     "iconName": "LiStar",
     "iconColor": "#ffdd00"
   },
-  "個人日記/AI 共生日記.md": "SiRobotframework"
+  "個人日記/AI 共生日記.md": "SiRobotframework",
+  "工作日誌/FTL": "OcOrganization24",
+  "工作日誌/LZpreneur": "OcOrganization24",
+  "個人日記/2026.md": "FasBookJournalWhills",
+  "年度計劃": {
+    "iconName": "FiCalendar",
+    "iconColor": "#ff0000"
+  },
+  "_Templates": "TiTemplate"
 }
