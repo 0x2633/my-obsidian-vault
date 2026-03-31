@@ -3,5 +3,6 @@
   "accentColor": "",
   "showRibbon": true,
   "baseFontSize": 16,
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "textFontFamily": "Adobe Clean Han HC,Adobe Clean Han TC"
 }
