@@ -4,5 +4,6 @@
   "showRibbon": true,
   "baseFontSize": 16,
   "cssTheme": "Minimal",
-  "textFontFamily": "Adobe Clean Han HC,Adobe Clean Han TC"
+  "textFontFamily": "Fira Code",
+  "interfaceFontFamily": "Fira Code"
 }
