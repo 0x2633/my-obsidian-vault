@@ -1,9 +1,8 @@
 ## 什麼是 DevOps
----
 DevOps 只是個方法論，但實踐上是確非常彈性的一思維。目的是為了==打破傳統開發人員與運維中間的鴻溝==
 
-## CICD
 ---
+## CICD
 ```mermaid
 graph TD
     subgraph CI ["持續整合 (Continuous Integration)"]
