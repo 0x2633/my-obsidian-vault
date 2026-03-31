@@ -1,7 +1,6 @@
 ## 量化交易模型提示詞
 ---
-- ==中文== ->
-	- [[量化交易模型提示詞(中文)]]
+- ==中文== -> [[量化交易模型提示詞(中文)]]
 - ==English== ->
 	- Act as an experienced quantitative hedge fund researcher and generate a consolidated, high-quality overview of trading models and alpha ideas actually used by professional quantitative hedge funds. The models should be organized from simple to increasingly sophisticated, progressing from foundational approaches to frontier-level institutional techniques. Focus only on realistic, professional models rather than retail gimmicks, and keep all explanations concise and clear. Present the output in a single table with the columns: Level, Model Name, Core Idea (one line), Typical Assets, Timeframe, and Why It Works. The five levels should be structured as Simple / Foundational, Classical Systematic, Professional Quant, Advanced Institutional, and Frontier / Elite. Use precise professional terminology without unnecessary complexity, with the goal of providing a clear landscape of quant trading models that allows for quick comparison and informed selection of a model to study in greater depth.
 
@@ -83,13 +82,11 @@
 	**Block 1**: Data Acquisition, Preprocessing, and In/Out-of-sample splitting.
 ## 走勢前推最佳化提示詞
 ---
-- 中文 ->
-	- [[走勢前推最佳化提示詞(中文)]]
-- 英文 ->
-	- [[走勢前推最要化提示詞(英文)]]
-## HRP提示詞
+- 中文 -> [[走勢前推最佳化提示詞(中文)]]
+- 英文 -> [[走勢前推最要化提示詞(英文)]]
+## HRP 提示詞
 ---
-
+- 中文 -> [[HRP 提示詞(中文)]]
 
 ## 量化暴力搜尋策略
 ---
