@@ -6,5 +6,6 @@
   "minimal-style@@italic-color@@dark": "#1DFF00",
   "minimal-style@@blockquote-border-color@@dark": "#FF00F1",
   "minimal-style@@blockquote-border-thickness": 3,
-  "minimal-style@@minimal-strike-lists": true
+  "minimal-style@@minimal-strike-lists": true,
+  "minimal-style@@h4-color@@dark": "#9500F8"
 }
