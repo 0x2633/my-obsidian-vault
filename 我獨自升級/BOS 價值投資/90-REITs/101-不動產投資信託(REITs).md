@@ -9,12 +9,13 @@
 REITs 的運作流程：
 
 ```mermaid
-graph LR
+graph TD
     A[投資者] -- 資金 --> B[REITs 公司/基金]
     B -- 購買/管理 --> C[不動產組合]
     C -- 產生租金/收益 --> B
     B -- 分配股利 >= 90% --> A
 ```
+
 
 ### 2. 核心特性 (Key Attributes)
 
