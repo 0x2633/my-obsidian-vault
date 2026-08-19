@@ -1,0 +1,12 @@
+{
+  "theme": "system",
+  "accentColor": "",
+  "showRibbon": true,
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "textFontFamily": "Fira Code,FiraCode Nerd Font Mono",
+  "interfaceFontFamily": "FiraCode Nerd Font Mono",
+  "enabledCssSnippets": [
+    "code-no-wrap"
+  ]
+}
