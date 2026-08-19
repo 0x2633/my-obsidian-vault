@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "OcTools16",
       "LiImage",
       "SiCyberdefenders",
       "FasCode",
-      "FasPeopleLine"
+      "FasPeopleLine",
+      "LiBookText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -63,18 +63,11 @@
     "iconName": "LiMoveUpRight",
     "iconColor": "#ff000d"
   },
-  "我獨自升級/管理": {
-    "iconName": "FasPeopleLine",
-    "iconColor": "#3387a3"
-  },
+  "我獨自升級/管理": "FasPeopleLine",
   "我獨自升級/Anthropic": "FasCode",
   "我獨自升級/Cybersecurity": {
     "iconName": "SiCyberdefenders",
     "iconColor": "#ff0000"
   },
-  "Note_Images": "LiImage",
-  "我獨自升級/學習的方法論": {
-    "iconName": "OcTools16",
-    "iconColor": "#f00fe8"
-  }
+  "Note_Images": "LiImage"
 }
