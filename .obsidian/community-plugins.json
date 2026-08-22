@@ -14,5 +14,6 @@
   "terminal",
   "scrolling",
   "obsidian-image-toolkit",
-  "editing-toolbar"
+  "editing-toolbar",
+  "floating-toc"
 ]
