@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "fa2828b264ca3075",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b95fee317db3be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13d1bbb8c5116e67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c367ec182407e4d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d307f66d16c71c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "347be5c7f17a662b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3eaa78e4e31f14cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c16ca85e4d4f9b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.65234375
+  },
+  "right": {
+    "id": "d8dcc83bdd6e8347",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce438de1e9fbca7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a8b4115782cc886",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作日誌/2026-03-02.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-03-02"
+            }
+          },
+          {
+            "id": "d3f4661b078e1ebb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8d91788e7cd696d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d51c4d19658f415e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9ad591f045b43ccd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "224b1c96419b5f88",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "93acbc9f9a2a3739",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "bases:Create new base": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "13d1bbb8c5116e67",
+  "lastOpenFiles": [
+    "我獨自升級/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
+    "我獨自升級/BOS 價值投資/00-金融市場名詞解釋/SCRAMPER 策略優化框架.md",
+    "Note_Images/Anthropic/Pasted image 20260822100503.png",
+    "Note_Images/Anthropic/Pasted image 20260822100124.png",
+    "Note_Images/Anthropic/Pasted image 20260822095939.png",
+    "我獨自升級/Anthropic/Introduction to Model Context Protocol(MCP)/03.Connecting with MCP Clients.md",
+    "我獨自升級/Anthropic/Introduction to Model Context Protocol(MCP)/02.Hands-on with MCP Servers.md",
+    "我獨自升級/Anthropic/Introduction to Model Context Protocol(MCP)/01.Introduction.md",
+    "我獨自升級/Anthropic/Introduction to Model Context Protocol(MCP)",
+    "我獨自升級/Anthropic/Introduction to Agent Skills/What Are Skills.md",
+    "我獨自升級/Anthropic/Introduction to Agent Skills/Troubleshooting Skills.md",
+    "我獨自升級/Anthropic/Introduction to Agent Skills/Skills VS Other Claude Code Features.md",
+    "我獨自升級/Anthropic/Introduction to Agent Skills/Sharing Skills.md",
+    "我獨自升級/Anthropic/Introduction to Agent Skills/Creating Skills.md",
+    "我獨自升級/Anthropic/Introduction to Agent Skills/Configuration and Multi-file Skills.md",
+    "我獨自升級/Anthropic/Introduction to Agent Skills",
+    "我獨自升級/Anthropic/Claud Code in Action/04.Verify and Share.md",
+    "我獨自升級/Anthropic/Claud Code in Action/03.Automate Repeat Work.md",
+    "我獨自升級/Anthropic/Claud Code in Action/02.Configure Claude.md",
+    "我獨自升級/Anthropic/Claud Code in Action/01.Steer the Work.md",
+    "我獨自升級/Anthropic/Claud Code in Action",
+    "我獨自升級/Anthropic/Building with the Claude API/09.Agents and Workflows.md",
+    "我獨自升級/Anthropic/Building with the Claude API/08.Anthropic Apps - Claude Code and Compute Use.md",
+    "我獨自升級/Anthropic/Building with the Claude API/07.Model Context Protocol.md",
+    "我獨自升級/Anthropic/Building with the Claude API/06.Features of Claude.md",
+    "我獨自升級/Anthropic/Building with the Claude API/05.RAG and Agentic Search.md",
+    "我獨自升級/Anthropic/Building with the Claude API/04.Tool Use with Claude.md",
+    "我獨自升級/Anthropic/Building with the Claude API/03.Prompt Engineering Techniques.md",
+    "我獨自升級/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
+    "我獨自升級/Anthropic/Building with the Claude API",
+    "我獨自升級/Anthropic/Introduction to Model Context Protocol.md",
+    "我獨自升級/Anthropic/Claude Architecture.md",
+    "我獨自升級/管理/新手主管的關鍵 10 課.md",
+    "我獨自升級/管理",
+    "我獨自升級/BOS 價值投資/30-量化交易/提示詞/優化版本",
+    "我獨自升級/BOS 價值投資/30-量化交易/提示詞",
+    "我獨自升級/BOS 價值投資/30-量化交易/交易模型",
+    "我獨自升級/BOS 價值投資/99-小課程",
+    "我獨自升級/BOS 價值投資/90-REITs",
+    "Note_Images/Pasted image 20260822100124.png",
+    "Note_Images/Anthropic/Pasted image 20260821224951.png",
+    "Note_Images/Anthropic/Pasted image 20260821224211.png",
+    "Note_Images/Anthropic/Pasted image 20260821224842.png",
+    "Note_Images/Anthropic/Pasted image 20260821224128.png",
+    "Note_Images/Anthropic/Pasted image 20260821175629.png",
+    "Note_Images/Anthropic/Pasted image 20260821175143.png",
+    "Untitled.canvas",
+    "Untitled/Untitled.canvas"
+  ]
+}
