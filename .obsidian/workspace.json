@@ -195,10 +195,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "terminal:Open terminal": false,
+      "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -207,10 +206,11 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "13d1bbb8c5116e67",
+  "active": "93acbc9f9a2a3739",
   "lastOpenFiles": [
     "Note_Images/Anthropic/Pasted image 20260822095939.png",
     "_Templates/NOTE_TEMPLATE.md",

@@ -1,0 +1,14 @@
+{
+  "promptDelete": true,
+  "strictLineBreaks": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Note_Images",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "deleteUnlinkedAttachments": "always",
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "Note_Images/",
+    "_Templates/"
+  ]
+}
