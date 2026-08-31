@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "84daba4f528a3743",
+        "id": "2cc76fb744f0d907",
         "type": "tabs",
         "children": [
           {
-            "id": "a05bb99d25d2a17a",
+            "id": "19331683fc1bc8d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/terminal/data.json",
+                "bFile": ".obsidian/plugins/terminal/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.65234375
+    "width": 323.34765625
   },
   "right": {
     "id": "d8dcc83bdd6e8347",
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,6 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,21 +196,22 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "terminal:Open terminal": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "c9b3cbf0abc1d6f6",
+  "active": "19331683fc1bc8d0",
   "lastOpenFiles": [
+    "Untitled.base",
     "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
     "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
     "Note_Images/Anthropic/Pasted image 20260822095939.png",
