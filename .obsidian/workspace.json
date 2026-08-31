@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b95fee317db3be1",
+        "id": "2e8884811378ff23",
         "type": "tabs",
         "children": [
           {
-            "id": "13d1bbb8c5116e67",
+            "id": "ee4c14fb96cdfdf1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日誌/2026-03-02.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-02"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,17 +161,7 @@
             }
           },
           {
-            "id": "224b1c96419b5f88",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "93acbc9f9a2a3739",
+            "id": "c9b3cbf0abc1d6f6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -186,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,21 +180,16 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "audio-recorder:Start/stop recording": false,
-      "terminal:Open terminal": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13d1bbb8c5116e67",
+  "active": "ee4c14fb96cdfdf1",
   "lastOpenFiles": [
     "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
     "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
