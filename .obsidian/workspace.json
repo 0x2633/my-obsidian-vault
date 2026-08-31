@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c58d579c38664d0",
+        "id": "84daba4f528a3743",
         "type": "tabs",
         "children": [
           {
-            "id": "43147b6a655b8c32",
+            "id": "a05bb99d25d2a17a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,6 +169,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ee3e9d181a75125f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -186,10 +196,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "43147b6a655b8c32",
+  "active": "c9b3cbf0abc1d6f6",
   "lastOpenFiles": [
     "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
     "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
