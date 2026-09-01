@@ -3,9 +3,11 @@
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "native",
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImage",
+      "SiExcalidraw",
       "LiExcalidrawIcon"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +31,10 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Excalidraw": {
+    "iconName": "SiExcalidraw",
+    "iconColor": "#5f18e2"
+  },
+  "Note_Images": "LiImage"
 }
