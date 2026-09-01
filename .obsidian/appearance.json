@@ -1,6 +1,7 @@
 {
   "showViewHeader": true,
   "showRibbon": true,
-  "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "accentColor": ""
 }
