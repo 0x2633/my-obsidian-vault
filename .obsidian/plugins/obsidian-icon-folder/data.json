@@ -6,9 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiImage",
-      "SiExcalidraw",
-      "LiExcalidrawIcon"
+      "FasPeopleGroup",
+      "LiAtom",
+      "LiComputer",
+      "LiBadgeDollarSign",
+      "LiCode2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +38,12 @@
     "iconName": "SiExcalidraw",
     "iconColor": "#5f18e2"
   },
-  "Note_Images": "LiImage"
+  "Note_Images": "LiImage",
+  "Projects": "LiAlbum",
+  "Upgrade": "LiArrowUpFromDot",
+  "Upgrade/Anthropic": "LiCode2",
+  "Upgrade/BOS 價值投資": "LiBadgeDollarSign",
+  "Upgrade/IT老齊": "LiComputer",
+  "Upgrade/學習的方法論": "LiAtom",
+  "Upgrade/管理": "FasPeopleGroup"
 }
