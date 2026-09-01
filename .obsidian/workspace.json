@@ -11,14 +11,14 @@
             "id": "19331683fc1bc8d0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/terminal/data.json",
-                "bFile": ".obsidian/plugins/terminal/data.json",
-                "aRef": ""
+                "file": "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "02.Prompt Evaluation"
             }
           }
         ]
