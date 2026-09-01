@@ -40,7 +40,10 @@
   },
   "Note_Images": "LiImage",
   "Projects": "LiAlbum",
-  "Upgrade": "LiArrowUpFromDot",
+  "Upgrade": {
+    "iconName": "LiArrowUpFromDot",
+    "iconColor": "#d71414"
+  },
   "Upgrade/Anthropic": "LiCode2",
   "Upgrade/BOS 價值投資": "LiBadgeDollarSign",
   "Upgrade/IT老齊": "LiComputer",
