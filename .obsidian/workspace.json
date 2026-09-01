@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.34765625
+    "width": 214.68426513671875
   },
   "right": {
     "id": "d8dcc83bdd6e8347",
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 311.1803894042969
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +209,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "19331683fc1bc8d0",
+  "active": "c9b3cbf0abc1d6f6",
   "lastOpenFiles": [
     "Note_Images/Pasted image 20260901170404.png",
     "Note_Images/Pasted image 20260901164815.png",
