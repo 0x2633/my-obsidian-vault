@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.68426513671875
+    "width": 323.34765625
   },
   "right": {
     "id": "d8dcc83bdd6e8347",
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.1803894042969
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,14 +209,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c9b3cbf0abc1d6f6",
+  "active": "19331683fc1bc8d0",
   "lastOpenFiles": [
+    "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
+    "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
     "Note_Images/Pasted image 20260901170404.png",
     "Note_Images/Pasted image 20260901164815.png",
     "Note_Images/Anthropic/Pasted image 20260901164548.png",
     "Untitled.base",
-    "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
-    "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
     "Note_Images/Anthropic/Pasted image 20260822095939.png",
     "_Templates/NOTE_TEMPLATE.md",
     "_Templates/NOTE_TEMPLATE 2.md",
@@ -256,7 +256,6 @@
     "Note_Images/Anthropic/Pasted image 20260821224211.png",
     "Note_Images/Anthropic/Pasted image 20260821224128.png",
     "Note_Images/Anthropic/Pasted image 20260821175629.png",
-    "Note_Images/Anthropic/Pasted image 20260821175143.png",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
