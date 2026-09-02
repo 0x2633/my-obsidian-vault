@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
+                "file": "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Prompt Evaluation"
+              "title": "01.Accessing Claude with the API"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.34765625
+    "width": 440.0078125
   },
   "right": {
     "id": "d8dcc83bdd6e8347",
@@ -211,8 +211,15 @@
   },
   "active": "19331683fc1bc8d0",
   "lastOpenFiles": [
-    "Note_Images/Anthropic/Pasted image 20260901164815.png",
     "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
+    "Upgrade/Anthropic/Building with the Claude API/03.Prompt Engineering Techniques.md",
+    "Upgrade/Anthropic/Building with the Claude API/04.Tool Use with Claude.md",
+    "Upgrade/Anthropic/Building with the Claude API/05.RAG and Agentic Search.md",
+    "Upgrade/Anthropic/Building with the Claude API/001_prompt_evals_complete 1.ipynb",
+    "Upgrade/Anthropic/Building with the Claude API/001_prompt_evals_complete.ipynb",
+    "Note_Images/001_prompt_evals_complete 1.ipynb",
+    "Note_Images/001_prompt_evals_complete.ipynb",
+    "Note_Images/Anthropic/Pasted image 20260901164815.png",
     "Note_Images/Pasted image 20260902091510.png",
     "Note_Images/Anthropic/Pasted image 20260902090242.png",
     "Note_Images/Anthropic/Pasted image 20260902090015.png",
@@ -243,16 +250,9 @@
     "Upgrade/Anthropic/Building with the Claude API/08.Anthropic Apps - Claude Code and Compute Use.md",
     "Upgrade/Anthropic/Building with the Claude API/07.Model Context Protocol.md",
     "Upgrade/Anthropic/Building with the Claude API/06.Features of Claude.md",
-    "Upgrade/Anthropic/Building with the Claude API/05.RAG and Agentic Search.md",
-    "Upgrade/Anthropic/Building with the Claude API/04.Tool Use with Claude.md",
-    "Upgrade/Anthropic/Building with the Claude API/03.Prompt Engineering Techniques.md",
     "Upgrade/Anthropic/Building with the Claude API",
     "Upgrade/管理/Google Project Management.md",
     "Upgrade/管理",
-    "Upgrade/BOS 價值投資/30-量化交易/提示詞/優化版本",
-    "Upgrade/BOS 價值投資/30-量化交易/提示詞",
-    "Upgrade/BOS 價值投資/30-量化交易/交易模型",
-    "Upgrade/BOS 價值投資/99-小課程",
     "Note_Images/Anthropic/Pasted image 20260822100124.png",
     "Note_Images/Anthropic/Pasted image 20260821224951.png",
     "Note_Images/Anthropic/Pasted image 20260821224842.png",
