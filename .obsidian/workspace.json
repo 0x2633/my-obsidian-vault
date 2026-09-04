@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
+                "file": "Upgrade/Anthropic/Building with the Claude API/03.Prompt Engineering Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Accessing Claude with the API"
+              "title": "03.Prompt Engineering Techniques"
             }
           }
         ]
@@ -212,6 +212,12 @@
   "active": "19331683fc1bc8d0",
   "lastOpenFiles": [
     "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
+    "Upgrade/Anthropic/Introduction to Model Context Protocol.md",
+    "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)/03.Connecting with MCP Clients.md",
+    "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)/02.Hands-on with MCP Servers.md",
+    "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)/01.Introduction.md",
+    "Upgrade/Anthropic/Claude Architecture.md",
+    "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
     "Upgrade/Anthropic/Building with the Claude API/03.Prompt Engineering Techniques.md",
     "Upgrade/Anthropic/Building with the Claude API/04.Tool Use with Claude.md",
     "Upgrade/Anthropic/Building with the Claude API/05.RAG and Agentic Search.md",
@@ -223,16 +229,12 @@
     "Note_Images/Pasted image 20260902091510.png",
     "Note_Images/Anthropic/Pasted image 20260902090242.png",
     "Note_Images/Anthropic/Pasted image 20260902090015.png",
-    "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
     "Note_Images/Anthropic/Pasted image 20260901170404.png",
     "Note_Images/Anthropic/Pasted image 20260901164548.png",
     "Untitled.base",
     "Note_Images/Anthropic/Pasted image 20260822095939.png",
     "_Templates/NOTE_TEMPLATE.md",
     "_Templates/NOTE_TEMPLATE 2.md",
-    "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)/03.Connecting with MCP Clients.md",
-    "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)/02.Hands-on with MCP Servers.md",
-    "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)/01.Introduction.md",
     "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)",
     "Upgrade/Anthropic/Introduction to Agent Skills/What Are Skills.md",
     "Upgrade/Anthropic/Introduction to Agent Skills/Troubleshooting Skills.md",
@@ -251,7 +253,6 @@
     "Upgrade/Anthropic/Building with the Claude API/07.Model Context Protocol.md",
     "Upgrade/Anthropic/Building with the Claude API/06.Features of Claude.md",
     "Upgrade/Anthropic/Building with the Claude API",
-    "Upgrade/管理/Google Project Management.md",
     "Upgrade/管理",
     "Note_Images/Anthropic/Pasted image 20260822100124.png",
     "Note_Images/Anthropic/Pasted image 20260821224951.png",

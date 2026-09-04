@@ -1,5 +1,5 @@
 ## Introduction
----
+
 ### 什麼是 MCP
 - Model Context Protocol(MCP)，是一種通訊層的協定。旨在為大語言模型提供 **上下文(Context)** 與 **工具(Tools)** 之間的溝通橋樑，讓開發人員不用自行撰寫程式碼即可以直接調用外部工具。
 - 實際專案中只會實作`Client`端或是`Server`端其中一方，而不會同時兩者都實現。
@@ -16,7 +16,7 @@
 - 一個完整的**MCP**調用如下圖(截取 [Anthropic 官方教材](https://anthropic.skilljar.com/introduction-to-model-context-protocol/296694))。![[Pasted image 20260615171414.png|606]]
 
 ## Hands-on with MCP Server
----
+
 在建立一個**MCP Server**前，我們要先規劃，這個**MCP Server**要提供哪些工具，如:**Read**,**Update**之類的功能再搭配**SDK**搭建**MCP Server**，以**Read**功能來說，我們以**Python**搭配**SDK**建立讀取文件的工具，程式碼大致如下:(重點是`@`修飾子的內容)
 
 ```python
@@ -41,7 +41,7 @@ mcp dev mcp_server.py
 開啟介面後點擊**Connect**即可以與開發中的**MCP Server**連線。
 
 ## Connecting with MCP Clients
----
+
 ### Implementing a client
 **MCP Client**有兩個主要元件:
 - **MCP Client**: 一個方便我們簡單使用**Session**的客制化**Class**
@@ -52,7 +52,6 @@ mcp dev mcp_server.py
 	- 當**Claude**請求工具的使用時可透過**Client**執行![[Pasted image 20260624133840.png]]
 
 ### Defining Resources
-
 
 ### Accessing Resources
 
