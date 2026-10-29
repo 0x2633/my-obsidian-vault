@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19331683fc1bc8d0",
+            "id": "11f7a0f1233f4e2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upgrade/Anthropic/Building with the Claude API/03.Prompt Engineering Techniques.md",
+                "file": "Upgrade/管理/成功的敏捷產品管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.Prompt Engineering Techniques"
+              "title": "成功的敏捷產品管理"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.0078125
+    "width": 357.69921875
   },
   "right": {
     "id": "d8dcc83bdd6e8347",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
+                "file": "Upgrade/BOS 價值投資/20-進階選擇權/101 - BOS 進階選擇權(SCP).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Upgrade/BOS 價值投資/20-進階選擇權/101 - BOS 進階選擇權(SCP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -195,6 +196,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "scrolling:Scroll to top": false,
+      "scrolling:Scroll to bottom": false,
       "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
@@ -209,8 +212,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "19331683fc1bc8d0",
+  "active": "11f7a0f1233f4e2b",
   "lastOpenFiles": [
+    "Note_Images/成功的敏捷產品管理/Pasted image 20261028151730.png",
+    "Note_Images/成功的敏捷產品管理/Pasted image 20261029115710.png",
+    "Note_Images/成功的敏捷產品管理",
+    "Note_Images/成功的敏捷產品管理/Pasted image 20261029112913.png",
+    "Note_Images/成功的敏捷產品管理/Pasted image 20261029111348.png",
+    "Upgrade/管理/成功的敏捷產品管理.md",
+    "Upgrade/管理/Google Project Management.md",
+    "Upgrade/BOS 價值投資/20-進階選擇權/101 - BOS 進階選擇權(SCP).md",
+    "Upgrade/Anthropic/Building with the Claude API/03.Prompt Engineering Techniques.md",
+    "Upgrade/Untitled",
     "Upgrade/Anthropic/Building with the Claude API/02.Prompt Evaluation.md",
     "Upgrade/Anthropic/Introduction to Model Context Protocol.md",
     "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)/03.Connecting with MCP Clients.md",
@@ -218,7 +231,6 @@
     "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)/01.Introduction.md",
     "Upgrade/Anthropic/Claude Architecture.md",
     "Upgrade/Anthropic/Building with the Claude API/01.Accessing Claude with the API.md",
-    "Upgrade/Anthropic/Building with the Claude API/03.Prompt Engineering Techniques.md",
     "Upgrade/Anthropic/Building with the Claude API/04.Tool Use with Claude.md",
     "Upgrade/Anthropic/Building with the Claude API/05.RAG and Agentic Search.md",
     "Upgrade/Anthropic/Building with the Claude API/001_prompt_evals_complete 1.ipynb",
@@ -232,7 +244,6 @@
     "Note_Images/Anthropic/Pasted image 20260901170404.png",
     "Note_Images/Anthropic/Pasted image 20260901164548.png",
     "Untitled.base",
-    "Note_Images/Anthropic/Pasted image 20260822095939.png",
     "_Templates/NOTE_TEMPLATE.md",
     "_Templates/NOTE_TEMPLATE 2.md",
     "Upgrade/Anthropic/Introduction to Model Context Protocol(MCP)",
@@ -248,15 +259,6 @@
     "Upgrade/Anthropic/Claud Code in Action/02.Configure Claude.md",
     "Upgrade/Anthropic/Claud Code in Action/01.Steer the Work.md",
     "Upgrade/Anthropic/Claud Code in Action",
-    "Upgrade/Anthropic/Building with the Claude API/09.Agents and Workflows.md",
-    "Upgrade/Anthropic/Building with the Claude API/08.Anthropic Apps - Claude Code and Compute Use.md",
-    "Upgrade/Anthropic/Building with the Claude API/07.Model Context Protocol.md",
-    "Upgrade/Anthropic/Building with the Claude API/06.Features of Claude.md",
-    "Upgrade/Anthropic/Building with the Claude API",
-    "Upgrade/管理",
-    "Note_Images/Anthropic/Pasted image 20260822100124.png",
-    "Note_Images/Anthropic/Pasted image 20260821224951.png",
-    "Note_Images/Anthropic/Pasted image 20260821224842.png",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
