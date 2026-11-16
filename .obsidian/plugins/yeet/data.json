@@ -1,0 +1,10 @@
+{
+  "apiBaseUrl": "https://yeet.md",
+  "confirmOnPublish": true,
+  "copyUrlOnPublish": true,
+  "openUrlOnPublish": false,
+  "showToast": true,
+  "stripProperties": "cssclasses, internal-id",
+  "clientId": "6db2455c-7f9e-48b7-ae26-c829dc58450b",
+  "publishedSnapshots": {}
+}

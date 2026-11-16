@@ -1,0 +1,77 @@
+/*
+ * Status bar indicator for published notes.
+ *   .yeet-status          → wrapper element, clickable
+ *   .yeet-status-stale    → applied when buffer diverges from published
+ *
+ * Colors use Obsidian CSS variables so both light/dark themes look right.
+ */
+
+.yeet-status {
+	cursor: pointer;
+	opacity: 0.85;
+}
+
+.yeet-status:hover {
+	opacity: 1;
+}
+
+.yeet-status-stale {
+	color: var(--text-warning, #ea8423);
+}
+
+/*
+ * Published snapshots list. Each note gets its own bordered block
+ * with a header row (note path + snapshot count) and snapshot rows
+ * underneath. Used by both the settings tab and the Published
+ * snapshots modal.
+ */
+
+.yeet-note-block {
+	margin-top: 0.75rem;
+	padding: 0.25rem 0.75rem 0.5rem;
+	background: var(--background-secondary);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: var(--radius-m, 6px);
+}
+
+.yeet-note-block-header {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	gap: 0.75rem;
+	padding: 0.4rem 0;
+	border-bottom: 1px solid var(--background-modifier-border);
+	margin-bottom: 0.25rem;
+}
+
+.yeet-note-block-title {
+	font-weight: var(--font-semibold, 600);
+	color: var(--text-normal);
+	word-break: break-all;
+}
+
+.yeet-note-block-count {
+	font-size: 0.8em;
+	color: var(--text-muted);
+	flex-shrink: 0;
+}
+
+.yeet-note-block .setting-item {
+	border-top: none;
+	padding: 0.4rem 0;
+}
+
+.yeet-note-block .setting-item-name {
+	font-size: 0.9em;
+	color: var(--text-muted);
+	word-break: break-all;
+}
+
+/* The published-snapshots section renders inside the setting row Obsidian
+   creates for its definition, so the stock .setting-item flex layout, border
+   and padding are neutralised and the section lays itself out as a block. */
+.yeet-snapshots-host {
+  display: block;
+  border: none;
+  padding: 0;
+}
