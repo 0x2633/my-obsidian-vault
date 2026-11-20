@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.19140625,
-    "collapsed": true
+    "width": 206.19140625
   },
   "right": {
     "id": "d8dcc83bdd6e8347",
@@ -193,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +214,12 @@
   },
   "active": "11f7a0f1233f4e2b",
   "lastOpenFiles": [
-    "Upgrade/管理/成功的敏捷產品管理.md",
-    "Note_Images/Pasted image 20261119152114.png",
+    "Note_Images/Pasted image 20261120134229.png",
     "Note_Images/Pasted image 20261119152420.png",
+    "Note_Images/Pasted image 20261119152114.png",
     "Note_Images/Pasted image 20261119143858.png",
     "Upgrade/BOS 價值投資/10-選擇權大師/101-BOS 選擇權大師.md",
+    "Upgrade/管理/成功的敏捷產品管理.md",
     "Note_Images/Pasted image 20261104114121.png",
     "Note_Images/Pasted image 20261104113446.png",
     "Note_Images/Pasted image 20261104112731.png",
